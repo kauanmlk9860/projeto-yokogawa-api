@@ -1,0 +1,13 @@
+Este é um documento de teste.
+
+Para testar a API, substitua este arquivo por um documento Word real (.docx) que contenha o placeholder {{ASSINATURA}} onde você deseja que a assinatura seja inserida.
+
+Exemplo de conteúdo:
+
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+
+Pelo presente instrumento...
+
+Assinatura do Contratante: {{ASSINATURA}}
+
+Data: ___________
