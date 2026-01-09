@@ -5,7 +5,10 @@
  * Versões: 1.0
  * Observações:
  * ************ Para criar a API precisamos instalar:
- *              express   npm install express --save
+ *              express   npm install express --savenpm start
+ # ou
+ npm run dev
+
  *              cors        npm install cors --save
  *              body-parser npm install body-parser --save
  * ************* Para criar conexão com o banco de dados MYSQL precisamos instalar:

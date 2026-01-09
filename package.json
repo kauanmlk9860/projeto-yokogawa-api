@@ -8,7 +8,7 @@
     "dev": "nodemon src/app.js"
   },
   "dependencies": {
-    "body-parser": "^2.2.1",
+    "body-parser": "^2.2.2",
     "cors": "^2.8.5",
     "docx-pdf": "^0.0.1",
     "docxtemplater": "^3.44.0",
